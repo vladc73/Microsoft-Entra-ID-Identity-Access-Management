@@ -5,6 +5,11 @@ Microsoft Entra ID, Microsoft Azure, Microsoft 365
 ### Focus
 IAM, RBAC, Authentication, Authorization, Least Privilege, Identity Administration
 
+## Business Scenario
+I joined Contoso, a leading technology company, as an entry-level identity and access management specialist. My primary responsibility is to ensure that employees have the appropriate access to the resources they need while maintaining the security of the company's systems.
+
+In my first month, I'm setting up user accounts, creating groups, assigning roles. Then I start to configure access to security features such as Multifactor Authentication (MFA), and Self-Service Password Reset (SSPR). Finally, I'll explore Conditional Access. These tasks are crucial for protecting sensitive information and ensuring that only authorized personnel can access specific resources.
+
 ## Lab 1 — Identity & Access Fundamentals
 ### Project Description
 
