@@ -31,9 +31,26 @@ Gain hands-on experience with Microsoft Entra ID and understand how cloud-based 
 - Cloud IAM
 - Microsoft Entra ID
 
-### Tools Used
-[Bullet Points - Remove this afterwards]
+## Lab 2 — Users and Groups
+### Project Description
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+#### Objective:
+Practice managing organizational identities and groups in Microsoft Entra ID.
+
+### Activities:
+- Created and managed user identities.
+- Created and configured security groups.
+- Added users to appropriate groups.
+- Examined how group membership can be used to manage access.
+- Tested identity and group configurations.
+
+### IAM concepts demonstrated:
+- User Administration
+- Group Management
+- Identity Lifecycle
+- Access Management
+- Group-Based Access Control
+- Identity Organization
+
+### What you learned
+This lab demonstrated how IAM administrators use centralized identity and group management to simplify access administration and establish consistent access controls.
