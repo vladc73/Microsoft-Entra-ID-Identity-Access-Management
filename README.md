@@ -54,3 +54,69 @@ Practice managing organizational identities and groups in Microsoft Entra ID.
 
 ### Learned
 This lab demonstrated how IAM administrators use centralized identity and group management to simplify access administration and establish consistent access controls.
+
+## Lab 3 — Role-Based Access Control
+### Project description
+
+### Objective:
+Implement role-based access control (RBAC) within Microsoft Entra ID to provide administrators with appropriate permissions based on their responsibilities.
+
+### Activities:
+- Reviewed Microsoft Entra administrative roles.
+- Examined permissions associated with different roles.
+- Assigned appropriate administrative roles.
+- Evaluated the difference between administrative roles and user/group permissions.
+- Applied least-privilege principles when assigning access.
+
+### IAM concepts demonstrated:
+- RBAC
+- Least Privilege
+- Administrative Delegation
+- Privileged Access
+- Authorization
+- Access Governance
+
+### Security principle
+Administrative access should be limited to the permissions required to perform assigned responsibilities.
+
+## Lab 4 — Authentication & Access
+### Project description
+
+### Objective:
+Explore how authentication and access controls are used to protect organizational resources.
+
+### Activities:
+- Examined Microsoft Entra authentication capabilities.
+- Configured and evaluated identity access settings.
+- Tested authentication and authorization scenarios.
+- Investigated how access decisions are applied to identities.
+- Analyzed potential access-control issues.
+
+### IAM concepts demonstrated:
+- Authentication
+- Authorization
+- Access Control
+- Identity Security
+- Authentication Policies
+- Access Troubleshooting
+
+## Lab 5 — Identity Security
+### Project description
+
+### Objective:
+Apply Microsoft Entra identity-security concepts to reduce unauthorized access and improve protection of organizational identities.
+
+### Activities:
+- Reviewed identity security capabilities within Microsoft Entra ID.
+- Examined security controls affecting identity access.
+- Evaluated authentication and authorization risks.
+- Investigated methods for protecting organizational identities.
+- Applied least-privilege and access-control concepts.
+
+### Security concepts demonstrated:
+- Identity Security
+- Least Privilege
+- Access Control
+- Authentication Security
+- Authorization
+- IAM Risk Reduction
