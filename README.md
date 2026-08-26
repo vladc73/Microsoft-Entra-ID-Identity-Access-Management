@@ -52,5 +52,5 @@ Practice managing organizational identities and groups in Microsoft Entra ID.
 - Group-Based Access Control
 - Identity Organization
 
-### What you learned
+### Learned
 This lab demonstrated how IAM administrators use centralized identity and group management to simplify access administration and establish consistent access controls.
