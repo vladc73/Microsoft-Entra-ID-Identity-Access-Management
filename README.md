@@ -18,14 +18,13 @@ Gain hands-on experience with Microsoft Entra ID and understand how cloud-based 
 - Investigated how Microsoft Entra ID manages organizational identities.
 - Identified the relationship between users, identities, resources, and access permissions.
 
-IAM concepts demonstrated:
-
-Identity Management
-Authentication
-Authorization
-Access Control
-Cloud IAM
-Microsoft Entra ID
+### IAM concepts demonstrated:
+- Identity Management
+- Authentication
+- Authorization
+- Access Control
+- Cloud IAM
+- Microsoft Entra ID
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
