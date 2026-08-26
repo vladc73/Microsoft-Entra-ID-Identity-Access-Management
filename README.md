@@ -10,12 +10,13 @@ IAM, RBAC, Authentication, Authorization, Least Privilege, Identity Administrati
 
 #### Objective:
 Gain hands-on experience with Microsoft Entra ID and understand how cloud-based identity and access management is used to control access to organizational resources.
-###Activities:
--Explored Microsoft Entra ID administrative capabilities.
-Examined identities and resources within an Entra environment.
-Reviewed authentication and authorization concepts.
-Investigated how Microsoft Entra ID manages organizational identities.
-Identified the relationship between users, identities, resources, and access permissions.
+
+### Activities:
+- Explored Microsoft Entra ID administrative capabilities.
+- Examined identities and resources within an Entra environment.
+- Reviewed authentication and authorization concepts.
+- Investigated how Microsoft Entra ID manages organizational identities.
+- Identified the relationship between users, identities, resources, and access permissions.
 
 IAM concepts demonstrated:
 
