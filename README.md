@@ -1,18 +1,29 @@
 # Microsoft-Entra-ID-Identity-Access-Management
 Hands-on Microsoft Entra ID labs demonstrating foundational Identity and Access Management (IAM) administration and security concepts.  The projects simulate common enterprise IAM activities including identity administration, user and group management, role-based access control, authentication, authorization, and identity security.
-## Technologies
+### Technologies
 Microsoft Entra ID, Microsoft Azure, Microsoft 365
-## Focus
+### Focus
 IAM, RBAC, Authentication, Authorization, Least Privilege, Identity Administration
 
-### Skills Learned
-[Bullet Points - Remove this afterwards]
+## Lab 1 — Identity & Access Fundamentals
+###Project description
+####Objective:
+Gain hands-on experience with Microsoft Entra ID and understand how cloud-based identity and access management is used to control access to organizational resources.
+###Activities:
+-Explored Microsoft Entra ID administrative capabilities.
+Examined identities and resources within an Entra environment.
+Reviewed authentication and authorization concepts.
+Investigated how Microsoft Entra ID manages organizational identities.
+Identified the relationship between users, identities, resources, and access permissions.
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+IAM concepts demonstrated:
+
+Identity Management
+Authentication
+Authorization
+Access Control
+Cloud IAM
+Microsoft Entra ID
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
