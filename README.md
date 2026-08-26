@@ -6,9 +6,9 @@ Microsoft Entra ID, Microsoft Azure, Microsoft 365
 IAM, RBAC, Authentication, Authorization, Least Privilege, Identity Administration
 
 ## Lab 1 — Identity & Access Fundamentals
-#### Project Description
+### Project Description
 
-### Objective:
+#### Objective:
 Gain hands-on experience with Microsoft Entra ID and understand how cloud-based identity and access management is used to control access to organizational resources.
 ###Activities:
 -Explored Microsoft Entra ID administrative capabilities.
